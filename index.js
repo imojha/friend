@@ -9,4 +9,4 @@ const submitForm = (e) => {
 }
 
 
-document.getElementById('submitButton').onclick = submitForm
+// document.getElementById('submitButton').onclick = submitForm

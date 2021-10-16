@@ -1097,12 +1097,13 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
+	min-width: 80px;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
 	top: 0;
 }
+
 header .logo {
 	float: left;
 	margin-left: 20px;
@@ -1118,9 +1119,9 @@ header .logo a {
 	font: 0/0 a;	
 	text-shadow: none;
 	color: transparent;
-	width: 100px;
+	width: 70px;
 	height: 15px;
-	background: url("../images/pujalogo.png") no-repeat center;
+	/* background: url("../images/newLogo.png") no-repeat center; */
 	background-size: 142px 39px;
 }
 
